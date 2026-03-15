@@ -1,2 +1,5 @@
 opencv-python
+numpy
+ultralytics
+cv2-enumerate-cameras
 PySimpleGUI-4-foss
